@@ -1,0 +1,11 @@
+{
+    "display_name": "Память",
+    "loading_order": 90,
+    "requires": [],
+    "optional": [],
+    "generate_interceptor": "pamyat_intercept",
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Это абсолютно точно писал не клод",
+    "version": "0.1.0"
+}
